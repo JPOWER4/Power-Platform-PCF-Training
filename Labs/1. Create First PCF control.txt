@@ -11,6 +11,10 @@ Command Prompt
 pac pcf init -n SamplePCFControl -ns JenkinsControl -t field
 npm install
 
+goto index.tc file add code in infit method 
+container.appendChild(document.createTextNode("Welcome to PCF Training"));
+save it
+
 npm start //to local run
 Create a new subfolder Solution
 pac solution init --publisher-name Jenkins --publisher-prefix JK
